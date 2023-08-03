@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/chalchitra-react/static/css/main.334bdeb1.css",
+    "main.js": "/chalchitra-react/static/js/main.84f539c8.js",
+    "index.html": "/chalchitra-react/index.html",
+    "static/media/search.svg": "/chalchitra-react/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.334bdeb1.css.map": "/chalchitra-react/static/css/main.334bdeb1.css.map",
+    "main.84f539c8.js.map": "/chalchitra-react/static/js/main.84f539c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.84f539c8.js"
+  ]
+}
